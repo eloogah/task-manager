@@ -6,5 +6,4 @@ Add new tasks
 List all tasks (with option to show/hide completed tasks)
 Mark tasks as completed
 Delete tasks
-Persistent storage using JSON file
-Colorful command-line interface
+Persistent storage using JSON file command-line interface
